@@ -1,6 +1,6 @@
 {
-  "name": "react-rate-card",
-  "version": "1.0.11",
+  "name": "@flexlabs/package-name",
+  "version": "0.1.0",
   "description": "",
   "main": "./lib/cjs/index.js",
   "module": "./lib/esm/index.js",

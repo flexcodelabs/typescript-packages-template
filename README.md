@@ -1,4 +1,4 @@
-# react rating card
+# @flexlabs/${package-name}
 
 [![npm](https://img.shields.io/npm/v/@flexlabs/${package-name})](https://www.npmjs.com/package/@flexlabs/${package-name}) [![NPM](https://img.shields.io/npm/l/@flexlabs/${package-name})](https://www.npmjs.com/package/@flexlabs/${package-name})
 
@@ -11,9 +11,7 @@
 
 ## Features
 
-- Converts rates bewteen coins and currencies
-- Written in TypeScript and has type support
-- Requires `antd` and `axios` to work
+- List of features
 
 ## Installation
 
