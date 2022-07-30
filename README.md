@@ -1,8 +1,8 @@
-# @flexlabs/${package-name}
+# @flexcodelabs/${package-name}
 
-[![npm](https://img.shields.io/npm/v/@flexlabs/${package-name})](https://www.npmjs.com/package/@flexlabs/${package-name}) [![NPM](https://img.shields.io/npm/l/@flexlabs/${package-name})](https://www.npmjs.com/package/@flexlabs/${package-name})
+[![npm](https://img.shields.io/npm/v/@flexcodelabs/${package-name})](https://www.npmjs.com/package/@flexcodelabs/${package-name}) [![NPM](https://img.shields.io/npm/l/@flexcodelabs/${package-name})](https://www.npmjs.com/package/@flexcodelabs/${package-name})
 
-- [Packe Component](#@flexlabs/${package-name})
+- [Packe Component](#@flexcodelabs/${package-name})
   - [Features](#features)
   - [Installation](#Installation)
   - [Usage](#usage)
@@ -15,17 +15,17 @@
 
 ## Installation
 
-`npm install @flexlabs/${package-name}`
+`npm install @flexcodelabs/${package-name}`
 
 or
 
-`yarn add @flexlabs/${package-name}`
+`yarn add @flexcodelabs/${package-name}`
 
 ## Usage
 
 ```js
 ...
-import PackageName from '@flexlabs/package-name';
+import PackageName from '@flexcodelabs/package-name';
 
 <PackageName
   {...props}
