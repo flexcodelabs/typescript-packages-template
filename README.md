@@ -39,6 +39,6 @@ import PackageName from '@flexlabs/package-name';
 
 ## Props
 
-| Name | Type   | Default | Description  |
-| ---- | ------ | ------- | ------------ |
-| Prop | `type` | ``      | Descriptions |
+| Name | Type   | Default | Required | Description  |
+| ---- | ------ | ------- | -------- | ------------ |
+| Prop | `type` | ``      | false    | Descriptions |
