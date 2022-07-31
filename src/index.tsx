@@ -1,11 +1,9 @@
-import React, { FC, ReactNode } from "react";
-
-interface PackageNameProps {
-  children: ReactNode;
+export type packageTypes = {
+  text: string
 }
 
-const PackageName: FC<PackageNameProps> = ({ children }) => {
-  return <div>{children}</div>;
-};
+const packageName = () => {
+  return "string"
+}
 
-export default PackageName;
+export default packageName
