@@ -29,7 +29,9 @@ jobs:
           NODE_AUTH_TOKEN: ${{ secrets.NPM_AUTH_TOKEN }}
       # update version
       - name: install jq
-        run: yarn add jq
+        run: |
+          sudo apt-get update 
+          sudo apt-get -y install jq
           
       - name: get version
         run: |
