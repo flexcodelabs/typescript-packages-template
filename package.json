@@ -1,5 +1,5 @@
 {
-  "name": "@flexlabs/package-name",
+  "name": "@flexcodelabs/package-name",
   "version": "0.1.0",
   "description": "",
   "main": "./lib/cjs/index.js",
